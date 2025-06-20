@@ -1,3 +1,4 @@
+<img src ="https://photos.app.goo.gl/FFFcXtK7JTH2F6dN7"/>
 <h1 align="center">Hi 👋, I'm Valentine Gamma</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
